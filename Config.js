@@ -1,14 +1,14 @@
 global.settings = {
-    OWNER_NUMBERS: "2347013159244", // replace with your number
-    OWNER_NAME: 'Miracle', // desired name
-    BOT_NAME: "KORD", // desired name
+    OWNER_NUMBERS: "916282524515", // replace with your number
+    OWNER_NAME: ' ᴀɴsʜɪғ xᴇʀ', // desired name
+    BOT_NAME: "ᴀɴsʜɪғ xᴇʀ", // desired name
     VERSION: 'V1.0.0',
-    SESSION_ID: '', //put your session id between ''
+    SESSION_ID: 'eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoib0FTNlhoMTlZNkhJbWtCTHdGVEp2U2pla0ZVMWtzV3lJVVpSRTRpazBrWT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiNk44YkVyVXFOdFNYK2JTclBvTHF1S0tkZlpYaU9PVjFhdDRQcHFiZlBRMD0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiI2R1NqR2tYcWp2emRjOU9tRTlFQWtmNFRVUi92SjVIM3k4TWJaL2ZXWW5nPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiI0KzA2eVdFemZuMnljUnpIQ2JJQTNYdWNRM3dyaTlVMjAycHFjQjRYRkFZPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkFBZ2RXdXhyOUtLQ3VVK0dNYWRaWTArTkRuMThzSGFiUlNLckhMZTVkVk09In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImpoZnVVWk1wa0hSZ2lzSnJ3RS9YUm9JZGZTbjlneTdZaWl3cm1jODZ2bG89In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiMklJNjJ6eEpZUFhBblpWNlc0elRFakM1Njc0Sm1vNWpzSkpaTTBWZXBVMD0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiL2czcmVUK1BpL3gybm0rT0wwQ2pKUjFUMzkxK2hueWtORk5YQ0d4eVFtbz0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImZMeFR1Y1FDbFhxVTZsdXRuNDdROHFuNXpnWUp6RVRQd0ZIRVhlTTRvaURmNS94VXBzV3BVeTVnWkpvWmh6WmRlWm51VWpTTC9tckZIVG9kRk1lWGd3PT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MTE4LCJhZHZTZWNyZXRLZXkiOiIxK3ZCbmxPVm5EVVFlRSsxdjhkQ0hSUXR6U2dIMFJZM3IveTIvb0JqUEk0PSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiJHMzJadE9UWFJCZUg0R0RjMkM4bkl3IiwicGhvbmVJZCI6IjNhYzE3MDA1LTEwNTUtNDkyNS05MGE0LTE3MWUzYzQ2YmFhYSIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJVOUl4cUZYcDM3NUpDdDlQS1FWbU55bUFUS1E9In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiT3FRVy8zKy9FRXJ0ZDBMcm9NNXkrSWk0MC9zPSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6IlRENzJONjhGIiwibWUiOnsiaWQiOiI5MTYyODI1MjQ1MTU6OTBAcy53aGF0c2FwcC5uZXQifSwiYWNjb3VudCI6eyJkZXRhaWxzIjoiQ01mUHdkUUZFTnpqeWJnR0dBUWdBQ2dBIiwiYWNjb3VudFNpZ25hdHVyZUtleSI6IjVvU2psQWt0dVorVWtsUDVsdm80cVJXODk5azNCWjFSQUk1TElRYWdVRWs9IiwiYWNjb3VudFNpZ25hdHVyZSI6InBONTd6b3d1TTltUkl1dngvcmx4WE1VbXFSRG9rL09zZGxSTnFzdEthRHBoZW5Sc0Y1V0kxMHFEOXNmWVlseXdCUWVtUXVwNysxNDV1U1NURjdrWkJBPT0iLCJkZXZpY2VTaWduYXR1cmUiOiJFZ29lVUlmRGFhT21nM3FEZ0huSHpFTFMvQUxHeHpxOGxac21wSzRsT2JubDd3YzdNMkdJM2kxR3VzTno3QWk5S2FuYllkMGx1dVM0TlA2aHplZ2hodz09In0sInNpZ25hbElkZW50aXRpZXMiOlt7ImlkZW50aWZpZXIiOnsibmFtZSI6IjkxNjI4MjUyNDUxNTo5MEBzLndoYXRzYXBwLm5ldCIsImRldmljZUlkIjowfSwiaWRlbnRpZmllcktleSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkJlYUVvNVFKTGJtZmxKSlQrWmI2T0trVnZQZlpOd1dkVVFDT1N5RUdvRkJKIn19XSwicGxhdGZvcm0iOiJhbmRyb2lkIiwibGFzdEFjY291bnRTeW5jVGltZXN0YW1wIjoxNzI5MjYyMDU2fQ==', //put your session id between ''
     MONGO_DB_URL: 'mongodb+srv://miracle32669:Iyanu1234@cluster0.m7glm.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0',
     WORK_MODE: "Public",
     READ_ALL_MESSAGES: false,
     PREFIX: [".", "/", "!"],
-    WELCOME_MESSAGE: "Hello! I'm KORD-AI, your friendly WhatsApp bot.",
+    WELCOME_MESSAGE: "Hello! I'm  ᴀɴsʜɪғ xᴇʀ, your friendly WhatsApp bot.",
     DEFAULT_TRANSLATION_LANG: "en",
     COMMAND_COOLDOWN_TIME_IN_MS: 2000,
     MAX_COMMANDS_PER_MINUTE: 10,
@@ -20,7 +20,7 @@ global.settings = {
     SAFE_SEARCH: true,
     REJECT_CALLS: true,
     SEND_WELCOME_MESSAGE: false,
-    WELCOME_MESSAGE: "👋 Welcome to the group! We're glad to have you here. 😊",
+    WELCOME_MESSAGE: "👋 Welcome to the group! We're glad to have you here.IM  ᴀɴsʜɪғ xᴇʀ 😊",
     DELETE_WA_LINKS: false,
     BAD_WORD_FILTER: true,
     BAD_WORDS: ['badword1', 'badword2', 'fuck', 'bitch', 'hentai'],
